@@ -90,6 +90,8 @@ Web applications and browser-based experiences powered by machine learning or AI
 - [giovaninogueira/fruit-ninja-robot](https://github.com/giovaninogueira/fruit-ninja-robot) – Interactive Fruit Ninja game with real-time fruit classification using YOLOv8 and ONNX running in the browser. **by [@giovaninogueira](https://github.com/giovaninogueira)**
 - [giovaninogueira/recommendation-anime](https://github.com/giovaninogueira/recommendation-anime) – Anime recommendation system using neural networks that learns user taste profiles and suggests new titles. Built with NestJS, TensorFlow.js and PostgreSQL. **by [@giovaninogueira](https://github.com/giovaninogueira)**
 - [giovaninogueira/doom-rag](https://github.com/giovaninogueira/doom-rag) – RAG system built over the DOOM universe lore, from the classic 1993 trilogy to The Dark Ages. Ask questions in natural language and get answers grounded in official lore using Neo4j graph database and Gemini. **by [@giovaninogueira](https://github.com/giovaninogueira)**
+- [kurybr/hootka](https://github.com/kurybr/hootka) `📜` `☁️` – Open source gamified quiz platform with real-time rooms, global rankings, asynchronous matches, and AI-powered quiz generation. **by [@kurybr](https://github.com/kurybr)**
+
 
 ---
 
